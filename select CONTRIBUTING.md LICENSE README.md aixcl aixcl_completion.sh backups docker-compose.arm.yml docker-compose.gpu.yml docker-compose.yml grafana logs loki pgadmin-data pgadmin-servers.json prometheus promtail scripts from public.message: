@@ -1,0 +1,30 @@
+             List of relations
+ Schema |       Name       | Type  | Owner 
+--------+------------------+-------+-------
+ public | alembic_version  | table | admin
+ public | auth             | table | admin
+ public | channel          | table | admin
+ public | channel_member   | table | admin
+ public | chat             | table | admin
+ public | chatidtag        | table | admin
+ public | config           | table | admin
+ public | document         | table | admin
+ public | feedback         | table | admin
+ public | file             | table | admin
+ public | folder           | table | admin
+ public | function         | table | admin
+ public | group            | table | admin
+ public | knowledge        | table | admin
+ public | memory           | table | admin
+ public | message          | table | admin
+ public | message_reaction | table | admin
+ public | migratehistory   | table | admin
+ public | model            | table | admin
+ public | note             | table | admin
+ public | oauth_session    | table | admin
+ public | prompt           | table | admin
+ public | tag              | table | admin
+ public | tool             | table | admin
+ public | user             | table | admin
+(25 rows)
+
